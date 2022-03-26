@@ -17,5 +17,5 @@ let package = Package(
             name: "DTTJailbreakDetection",
             dependencies: []),
     ],
-    swiftLanguageVersions: [.v5])
+    swiftLanguageVersions: [.v5]
 )
